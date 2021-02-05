@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Travis Grice</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+
+        "I used to be a roofer. As a roofer, I could only work when it wasn't raining and only when"
+        " the job was big enough to afford to hire me. I was making just enough to live in a tiny "
+        "studio and afford the bare necessities. I decided that I needed to change careers.\n"
+
+        "\nI went back to school to study Computer Engineering and I'm glad that I did because now I "
+        "have a great job as a Firmware Engineer, I get better pay, the work is more satisfying, "
+        "and I always have work to do.\n"
+
+        "\nBecoming a Firmware Engineer has been a great improvement in my life, but I want to do "
+        "more. I want to do more work, increase my pay further, pay down all my debt, buy a house, "
+        "and eventually I would like to start my own business - most likely designing and "
+        "manufacturing smart transportation technology.\n"
+
+        "\nThe greatest thing about my career now is that I get to spend more time with my wife and "
+        "my daughter who is almost 2 years old.\n\n"
+
+    </string>
+</resources>
